@@ -1,7 +1,20 @@
 <!-- docs/_sidebar.md -->
 - User
     - [Microservice](/)
-    - [Database](userauth.md)
+      - [Authentication](authentication.md)
+      - [Pin](pin.md)
+      - [Profil](profil.md)
+      - [Forgot-Password](forgot-password.md)
+      - [Kecamatan/ Od](kecamatan/od.md)
+      - [Member](member.md)
+      - [Suggestions](suggestions.md)
+      - [Address](address.md)
+      - [Activation](activation.md)
+      - [Sender-Verification](sender-verfication.md)
+      - [Validation](validation)
+      - [Whatsapp](whatsapp.md)
+      - [Access-Admin](access-admin.md)
+    - [Database](/)
 - Delivery Transaction
 - Financial Transaction
 - Database
